@@ -11,3 +11,5 @@ This repository contains my PhD thesis, associated links and resources. If you h
 [Personalisation in Cyber-Physical-Social Systems (CPSS)](https://bekyilma.github.io/PhD_thesis/)
 
 ### Watch the defense
+
+[PhD_Defense](https://drive.google.com/file/d/1ufDLcolmCOJK96aBaHhMglVQOfQwZH3A/view?usp=sharing) 
